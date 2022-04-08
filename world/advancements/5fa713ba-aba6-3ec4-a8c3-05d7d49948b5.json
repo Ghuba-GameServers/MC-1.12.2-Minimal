@@ -1,0 +1,22 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2022-04-02 13:15:52 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2022-04-02 13:16:07 +0300",
+      "deep_ocean": "2022-04-02 13:17:15 +0300",
+      "beaches": "2022-04-02 13:16:52 +0300",
+      "extreme_hills_with_trees": "2022-04-02 13:17:05 +0300",
+      "plains": "2022-04-02 13:15:52 +0300",
+      "taiga": "2022-04-02 13:16:34 +0300",
+      "ocean": "2022-04-02 13:16:55 +0300",
+      "river": "2022-04-02 13:17:01 +0300",
+      "stone_beach": "2022-04-02 13:16:59 +0300"
+    },
+    "done": false
+  }
+}
