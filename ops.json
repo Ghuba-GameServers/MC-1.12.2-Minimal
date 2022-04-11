@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "1b907c57-d118-3a5b-91b6-6a823ef6f8a2",
+    "name": "_DEADMOON",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "50b97945-b0d3-398b-acb3-1e55a88a150b",
+    "name": "Khatjeet",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "5fa713ba-aba6-3ec4-a8c3-05d7d49948b5",
     "name": "asdf",
     "level": 4,
